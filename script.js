@@ -135,7 +135,7 @@ function addMessage() {
     // إنشاء عنصر الرسالة
     const message = document.createElement('div');
     message.className = 'heart-message';
-    message.innerHTML = '❤‍🩹🫂أحبك كثييير ي رووح بابا';
+    message.innerHTML = 'I Love you❤‍🩹';
     
     // إضافة الرسالة إلى الصفحة
     document.querySelector('.container').appendChild(message);
